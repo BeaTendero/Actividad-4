@@ -1,0 +1,30 @@
+table{
+    border:  2px solid rgb(48, 48, 204);
+    
+}
+td{
+    border: 2px solid blue;
+    background-color:  rgb(169, 253, 169);
+        
+}
+th{
+    border: 2px solid blue;
+    background-color: aquamarine;
+    
+    }
+.fila{
+    background-color: rgb(142, 196, 142);
+   
+}
+#filaa{
+   
+    width:  26vw;
+   
+}
+#div2-3{
+    
+    width: 26vw;
+    
+}
+
+
